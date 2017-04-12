@@ -1,0 +1,8 @@
+c:\users\ney\documents\visual studio 2013\Projects\English Report-An Interesting Experiment\English Report-An Interesting Experiment\bin\Debug\English Report-An Interesting Experiment.exe.config
+c:\users\ney\documents\visual studio 2013\Projects\English Report-An Interesting Experiment\English Report-An Interesting Experiment\bin\Debug\English Report-An Interesting Experiment.exe
+c:\users\ney\documents\visual studio 2013\Projects\English Report-An Interesting Experiment\English Report-An Interesting Experiment\bin\Debug\English Report-An Interesting Experiment.pdb
+c:\users\ney\documents\visual studio 2013\Projects\English Report-An Interesting Experiment\English Report-An Interesting Experiment\obj\Debug\English Report-An Interesting Experiment.csprojResolveAssemblyReference.cache
+c:\users\ney\documents\visual studio 2013\Projects\English Report-An Interesting Experiment\English Report-An Interesting Experiment\obj\Debug\English_Report_An_Interesting_Experiment.Properties.Resources.resources
+c:\users\ney\documents\visual studio 2013\Projects\English Report-An Interesting Experiment\English Report-An Interesting Experiment\obj\Debug\English Report-An Interesting Experiment.csproj.GenerateResource.Cache
+c:\users\ney\documents\visual studio 2013\Projects\English Report-An Interesting Experiment\English Report-An Interesting Experiment\obj\Debug\English Report-An Interesting Experiment.exe
+c:\users\ney\documents\visual studio 2013\Projects\English Report-An Interesting Experiment\English Report-An Interesting Experiment\obj\Debug\English Report-An Interesting Experiment.pdb

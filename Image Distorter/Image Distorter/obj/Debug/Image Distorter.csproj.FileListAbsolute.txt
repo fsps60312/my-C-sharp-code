@@ -1,0 +1,7 @@
+c:\users\burney\documents\visual studio 2013\Projects\Image Distorter\Image Distorter\bin\Debug\Image Distorter.exe.config
+c:\users\burney\documents\visual studio 2013\Projects\Image Distorter\Image Distorter\obj\Debug\Image_Distorter.Properties.Resources.resources
+c:\users\burney\documents\visual studio 2013\Projects\Image Distorter\Image Distorter\obj\Debug\Image Distorter.csproj.GenerateResource.Cache
+c:\users\burney\documents\visual studio 2013\Projects\Image Distorter\Image Distorter\bin\Debug\Image Distorter.exe
+c:\users\burney\documents\visual studio 2013\Projects\Image Distorter\Image Distorter\bin\Debug\Image Distorter.pdb
+c:\users\burney\documents\visual studio 2013\Projects\Image Distorter\Image Distorter\obj\Debug\Image Distorter.exe
+c:\users\burney\documents\visual studio 2013\Projects\Image Distorter\Image Distorter\obj\Debug\Image Distorter.pdb

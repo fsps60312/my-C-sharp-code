@@ -1,0 +1,7 @@
+c:\users\ney\documents\visual studio 2013\Projects\Hackpad Typer\Hackpad Typer\bin\Debug\Hackpad Typer.exe.config
+c:\users\ney\documents\visual studio 2013\Projects\Hackpad Typer\Hackpad Typer\bin\Debug\Hackpad Typer.exe
+c:\users\ney\documents\visual studio 2013\Projects\Hackpad Typer\Hackpad Typer\bin\Debug\Hackpad Typer.pdb
+c:\users\ney\documents\visual studio 2013\Projects\Hackpad Typer\Hackpad Typer\obj\Debug\Hackpad_Typer.Properties.Resources.resources
+c:\users\ney\documents\visual studio 2013\Projects\Hackpad Typer\Hackpad Typer\obj\Debug\Hackpad Typer.csproj.GenerateResource.Cache
+c:\users\ney\documents\visual studio 2013\Projects\Hackpad Typer\Hackpad Typer\obj\Debug\Hackpad Typer.exe
+c:\users\ney\documents\visual studio 2013\Projects\Hackpad Typer\Hackpad Typer\obj\Debug\Hackpad Typer.pdb

@@ -1,0 +1,11 @@
+D:\Users\fsps6\OneDrive\Sync\C# Code\generals.io\generals.io\bin\Debug\generals.io.exe.config
+D:\Users\fsps6\OneDrive\Sync\C# Code\generals.io\generals.io\bin\Debug\generals.io.exe
+D:\Users\fsps6\OneDrive\Sync\C# Code\generals.io\generals.io\bin\Debug\generals.io.pdb
+D:\Users\fsps6\OneDrive\Sync\C# Code\generals.io\generals.io\bin\Debug\Motivation.dll
+D:\Users\fsps6\OneDrive\Sync\C# Code\generals.io\generals.io\bin\Debug\Motivation.pdb
+D:\Users\fsps6\OneDrive\Sync\C# Code\generals.io\generals.io\bin\Debug\Motivation.xml
+D:\Users\fsps6\OneDrive\Sync\C# Code\generals.io\generals.io\obj\Debug\generals.io.csprojResolveAssemblyReference.cache
+D:\Users\fsps6\OneDrive\Sync\C# Code\generals.io\generals.io\obj\Debug\generals.io.Properties.Resources.resources
+D:\Users\fsps6\OneDrive\Sync\C# Code\generals.io\generals.io\obj\Debug\generals.io.csproj.GenerateResource.Cache
+D:\Users\fsps6\OneDrive\Sync\C# Code\generals.io\generals.io\obj\Debug\generals.io.exe
+D:\Users\fsps6\OneDrive\Sync\C# Code\generals.io\generals.io\obj\Debug\generals.io.pdb

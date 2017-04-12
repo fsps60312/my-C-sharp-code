@@ -1,0 +1,8 @@
+C:\Users\Motivation\Desktop\C# Code\Get my IP address\Get my IP address\bin\Release\Get my IP address.exe.config
+C:\Users\Motivation\Desktop\C# Code\Get my IP address\Get my IP address\bin\Release\Get my IP address.exe
+C:\Users\Motivation\Desktop\C# Code\Get my IP address\Get my IP address\bin\Release\Get my IP address.pdb
+C:\Users\Motivation\Desktop\C# Code\Get my IP address\Get my IP address\bin\Release\Motivation.dll
+C:\Users\Motivation\Desktop\C# Code\Get my IP address\Get my IP address\obj\Release\Get_my_IP_address.Properties.Resources.resources
+C:\Users\Motivation\Desktop\C# Code\Get my IP address\Get my IP address\obj\Release\Get my IP address.csproj.GenerateResource.Cache
+C:\Users\Motivation\Desktop\C# Code\Get my IP address\Get my IP address\obj\Release\Get my IP address.exe
+C:\Users\Motivation\Desktop\C# Code\Get my IP address\Get my IP address\obj\Release\Get my IP address.pdb

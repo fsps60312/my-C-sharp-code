@@ -1,0 +1,16 @@
+C:\Users\ney\Desktop\C# Code\Hackpad Typer 2\Hackpad Typer 2\bin\Release\Hackpad Typer 2.exe.config
+C:\Users\ney\Desktop\C# Code\Hackpad Typer 2\Hackpad Typer 2\bin\Release\Hackpad Typer 2.exe
+C:\Users\ney\Desktop\C# Code\Hackpad Typer 2\Hackpad Typer 2\bin\Release\Hackpad Typer 2.pdb
+C:\Users\ney\Desktop\C# Code\Hackpad Typer 2\Hackpad Typer 2\obj\Release\Hackpad_Typer_2.Properties.Resources.resources
+C:\Users\ney\Desktop\C# Code\Hackpad Typer 2\Hackpad Typer 2\obj\Release\Hackpad Typer 2.csproj.GenerateResource.Cache
+C:\Users\ney\Desktop\C# Code\Hackpad Typer 2\Hackpad Typer 2\obj\Release\Hackpad Typer 2.exe
+C:\Users\ney\Desktop\C# Code\Hackpad Typer 2\Hackpad Typer 2\obj\Release\Hackpad Typer 2.pdb
+C:\Users\ney\Desktop\C# Code\Hackpad Typer 2\Hackpad Typer 2\obj\Release\Hackpad Typer 2.csprojResolveAssemblyReference.cache
+C:\Users\Motivation\Desktop\C# Code\Hackpad Typer 2\Hackpad Typer 2\bin\Release\Hackpad Typer 2.exe.config
+C:\Users\Motivation\Desktop\C# Code\Hackpad Typer 2\Hackpad Typer 2\obj\Release\Hackpad Typer 2.exe
+C:\Users\Motivation\Desktop\C# Code\Hackpad Typer 2\Hackpad Typer 2\obj\Release\Hackpad Typer 2.pdb
+C:\Users\Motivation\Desktop\C# Code\Hackpad Typer 2\Hackpad Typer 2\obj\Release\Hackpad_Typer_2.Properties.Resources.resources
+C:\Users\Motivation\Desktop\C# Code\Hackpad Typer 2\Hackpad Typer 2\obj\Release\Hackpad Typer 2.csproj.GenerateResource.Cache
+C:\Users\Motivation\Desktop\C# Code\Hackpad Typer 2\Hackpad Typer 2\bin\Release\Hackpad Typer 2.exe
+C:\Users\Motivation\Desktop\C# Code\Hackpad Typer 2\Hackpad Typer 2\bin\Release\Hackpad Typer 2.pdb
+C:\Users\Motivation\Desktop\C# Code\Hackpad Typer 2\Hackpad Typer 2\obj\Release\Hackpad Typer 2.csprojResolveAssemblyReference.cache

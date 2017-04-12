@@ -1,0 +1,8 @@
+C:\Users\Motivation\Desktop\C# Code\IPSC2016-D-Hard\IPSC2016-D-Hard\bin\Debug\IPSC2016-D-Hard.exe.config
+C:\Users\Motivation\Desktop\C# Code\IPSC2016-D-Hard\IPSC2016-D-Hard\bin\Debug\IPSC2016-D-Hard.exe
+C:\Users\Motivation\Desktop\C# Code\IPSC2016-D-Hard\IPSC2016-D-Hard\bin\Debug\IPSC2016-D-Hard.pdb
+C:\Users\Motivation\Desktop\C# Code\IPSC2016-D-Hard\IPSC2016-D-Hard\obj\Debug\IPSC2016-D-Hard.csprojResolveAssemblyReference.cache
+C:\Users\Motivation\Desktop\C# Code\IPSC2016-D-Hard\IPSC2016-D-Hard\obj\Debug\IPSC2016_D_Hard.Properties.Resources.resources
+C:\Users\Motivation\Desktop\C# Code\IPSC2016-D-Hard\IPSC2016-D-Hard\obj\Debug\IPSC2016-D-Hard.csproj.GenerateResource.Cache
+C:\Users\Motivation\Desktop\C# Code\IPSC2016-D-Hard\IPSC2016-D-Hard\obj\Debug\IPSC2016-D-Hard.exe
+C:\Users\Motivation\Desktop\C# Code\IPSC2016-D-Hard\IPSC2016-D-Hard\obj\Debug\IPSC2016-D-Hard.pdb

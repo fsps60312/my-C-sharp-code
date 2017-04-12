@@ -1,0 +1,8 @@
+c:\users\ney\documents\visual studio 2013\Projects\Hackpad Helper\Hackpad Helper\bin\Debug\Hackpad Helper.exe.config
+c:\users\ney\documents\visual studio 2013\Projects\Hackpad Helper\Hackpad Helper\obj\Debug\Hackpad Helper.csprojResolveAssemblyReference.cache
+c:\users\ney\documents\visual studio 2013\Projects\Hackpad Helper\Hackpad Helper\obj\Debug\Hackpad_Helper.Properties.Resources.resources
+c:\users\ney\documents\visual studio 2013\Projects\Hackpad Helper\Hackpad Helper\obj\Debug\Hackpad Helper.csproj.GenerateResource.Cache
+c:\users\ney\documents\visual studio 2013\Projects\Hackpad Helper\Hackpad Helper\bin\Debug\Hackpad Helper.exe
+c:\users\ney\documents\visual studio 2013\Projects\Hackpad Helper\Hackpad Helper\bin\Debug\Hackpad Helper.pdb
+c:\users\ney\documents\visual studio 2013\Projects\Hackpad Helper\Hackpad Helper\obj\Debug\Hackpad Helper.exe
+c:\users\ney\documents\visual studio 2013\Projects\Hackpad Helper\Hackpad Helper\obj\Debug\Hackpad Helper.pdb

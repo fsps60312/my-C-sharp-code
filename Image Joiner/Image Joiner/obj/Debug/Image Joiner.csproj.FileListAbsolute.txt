@@ -1,0 +1,8 @@
+c:\users\ney\documents\visual studio 2013\Projects\Image Joiner\Image Joiner\bin\Debug\Image Joiner.exe.config
+c:\users\ney\documents\visual studio 2013\Projects\Image Joiner\Image Joiner\bin\Debug\Image Joiner.exe
+c:\users\ney\documents\visual studio 2013\Projects\Image Joiner\Image Joiner\bin\Debug\Image Joiner.pdb
+c:\users\ney\documents\visual studio 2013\Projects\Image Joiner\Image Joiner\obj\Debug\Image Joiner.csprojResolveAssemblyReference.cache
+c:\users\ney\documents\visual studio 2013\Projects\Image Joiner\Image Joiner\obj\Debug\Image_Joiner.Properties.Resources.resources
+c:\users\ney\documents\visual studio 2013\Projects\Image Joiner\Image Joiner\obj\Debug\Image Joiner.csproj.GenerateResource.Cache
+c:\users\ney\documents\visual studio 2013\Projects\Image Joiner\Image Joiner\obj\Debug\Image Joiner.exe
+c:\users\ney\documents\visual studio 2013\Projects\Image Joiner\Image Joiner\obj\Debug\Image Joiner.pdb
