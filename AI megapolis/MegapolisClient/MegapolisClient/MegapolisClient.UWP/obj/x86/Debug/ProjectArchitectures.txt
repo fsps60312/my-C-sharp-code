@@ -1,0 +1,2 @@
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClient\MegapolisClient\MegapolisClient.UWP\MegapolisClient.UWP.csproj;x86
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClient\MegapolisClient\MegapolisClient\MegapolisClient.csproj;neutral

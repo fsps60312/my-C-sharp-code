@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E56770E1-F012-4F7C-B9E9-A94B127EEFC7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Megapolis</RootNamespace>
+    <AssemblyName>Megapolis</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Motivation">
+      <HintPath>..\..\..\MyC#Code\Motivation.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Scripts\Occasional\DeleteInactiveFriendsTask.cs" />
+    <Compile Include="Scripts\Regular\DrillingMachineTask.cs" />
+    <Compile Include="Scripts\Regular\DeepSubmergenceVehicleTask.cs" />
+    <Compile Include="Scripts\Disabled\InstituteOfFutureDevelopmentTask.cs" />
+    <Compile Include="Scripts\Disabled\AtmosphericProbeTask.cs" />
+    <Compile Include="Scripts\Regular\InterstellarLinerTask.cs" />
+    <Compile Include="Scripts\Disabled\OrbitalShuttleTask.cs" />
+    <Compile Include="Scripts\Disabled\SpaceShipTask.cs" />
+    <Compile Include="Scripts\Disabled\MannedRocketTask.cs" />
+    <Compile Include="Prototypes\AssemblingLineTask.cs" />
+    <Compile Include="Scripts\Disabled\CargoRocketTask.cs" />
+    <Compile Include="Scripts\Disabled\CenterOfGravitationalResearchTask.cs" />
+    <Compile Include="Scripts\Disabled\GoldDragonCasinoTask.cs" />
+    <Compile Include="Scripts\Disabled\ScientificResourceCenterTask.cs" />
+    <Compile Include="Scripts\Varying\MissileConstructionFactoryTask.cs" />
+    <Compile Include="Scripts\Varying\MilitaryShipyardTask.cs" />
+    <Compile Include="Scripts\Varying\MilitaryAircraftFactoryTask.cs" />
+    <Compile Include="Scripts\Regular\ArmoredVehicleFactoryTask.cs" />
+    <Compile Include="Prototypes\ProduceArmsTask.cs" />
+    <Compile Include="Scripts\Occasional\ArmsRaceTask.cs" />
+    <Compile Include="Prototypes\BatchRunOnceTask.cs" />
+    <Compile Include="Scripts\Regular\Level6LongRangeAirlinerTask.cs" />
+    <Compile Include="Scripts\Regular\Level6BusinessJetVIPJetTask.cs" />
+    <Compile Include="NetworkCommunicator.cs" />
+    <Compile Include="NextRunTimeDataSaver.cs" />
+    <Compile Include="Prototypes\EmptyTask.cs" />
+    <Compile Include="Scripts\Disabled\PrimeFinanceCenterTask.cs" />
+    <Compile Include="Scripts\Disabled\MontrealBusinessCenterVancouverOfficeCenterTask.cs" />
+    <Compile Include="Scripts\Disabled\IdahoBusinessCenterIowaBusinessCenterTask.cs" />
+    <Compile Include="Scripts\Regular\Level6CargoPlaneTask.cs" />
+    <Compile Include="Scripts\Regular\ResearchCenterInMegapolisTask.cs" />
+    <Compile Include="Scripts\Regular\ResearchCenterInRockyMountainsTask.cs" />
+    <Compile Include="Scripts\Regular\Level6PassengerAirlinerTask.cs" />
+    <Compile Include="MainTask.cs" />
+    <Compile Include="Scripts\Disabled\GeocryologyInstituteTask.cs" />
+    <Compile Include="Scripts\Regular\ArchaeologicalResearchLabTask.cs" />
+    <Compile Include="Scripts\Disabled\HotelBelizeTask.cs" />
+    <Compile Include="Scripts\Disabled\CreativeProjectCenterTask.cs" />
+    <Compile Include="Scripts\Regular\HoustonTask.cs" />
+    <Compile Include="Scripts\Disabled\JapaneseCulturalInstituteTask.cs" />
+    <Compile Include="Scripts\Regular\LongRangeAirlinerTask.cs" />
+    <Compile Include="Prototypes\MultiContractTask.cs" />
+    <Compile Include="Scripts\Disabled\NorthStationTask.cs" />
+    <Compile Include="Scripts\Disabled\OceanicStationTask.cs" />
+    <Compile Include="Scripts\Disabled\AviationDesignCompanyTask.cs" />
+    <Compile Include="Scripts\Disabled\ReserveAdministrationTask.cs" />
+    <Compile Include="Scripts\Disabled\SeismicPredictionLaboratoryTask.cs" />
+    <Compile Include="Scripts\Disabled\TourAdministrationTask.cs" />
+    <Compile Include="Scripts\Disabled\InstituteOfNaturalPhenomenaTask.cs" />
+    <Compile Include="Prototypes\CollectionTask.cs" />
+    <Compile Include="Constant.cs" />
+    <Compile Include="Prototypes\ContractTask.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyTask.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Scripts\Regular\RailroadTask.cs" />
+    <Compile Include="Scripts\Regular\SendGiftsTask.cs" />
+    <Compile Include="Scripts\Varying\SubmarineFactoryTask.cs" />
+    <Compile Include="TaskCheckedListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaskCheckedListForm.Designer.cs">
+      <DependentUpon>TaskCheckedListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TaskScheduler.cs" />
+    <Compile Include="Scripts\Regular\TreasuryInMegapolisTask.cs" />
+    <Compile Include="Scripts\Occasional\TianningResidenceTask.cs" />
+    <Compile Include="Scripts\Occasional\TreasureChestTask.cs" />
+    <Compile Include="XButtonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\controlBoxesOfBlueStacks.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\megapolisTabInBlueStacks.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\allAppButtonInBlueStacks.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\megapolisIconInBlueStacks.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\darkenMapIconInMegapolis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mapIconInMegapolis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\controlBoxesOfBlueStacks1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sendGiftButtonInMegapolis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\okButtonAfterSendingGiftInMegapolis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\openSendGiftWindowButtonWhenNoGiftInMegapolis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mapXButtonInMegapolis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adWhenOpenMegapolisInBlueStacks.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settingButtonInMegapolis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\savedButtonInSettingsInMegapolis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\noButtonInPurchaseForMegabucksInMegapolis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sendButtonInArmsProductionInMegapolis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Screenshot %28130%29 - captured.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NeighborsIconInMegapolis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\activatedActiveFriendsSwitchInNeighborsListInMegapolis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disactivatedActiveFriendsSwitchInNeighborsListInMegapolis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nextPageButtonInNeighborsListInMegapolis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deleteButtonInNeighborsListInMegapolis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unlockForFreeButtonInTreasureChestInMegapolis.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

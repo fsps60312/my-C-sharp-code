@@ -1,0 +1,8 @@
+C:\Users\ney\Documents\Visual Studio 2013\Projects\Auto Backup\Auto Backup\bin\Debug\Auto Backup.exe.config
+C:\Users\ney\Documents\Visual Studio 2013\Projects\Auto Backup\Auto Backup\bin\Debug\Auto Backup.exe
+C:\Users\ney\Documents\Visual Studio 2013\Projects\Auto Backup\Auto Backup\bin\Debug\Auto Backup.pdb
+C:\Users\ney\Documents\Visual Studio 2013\Projects\Auto Backup\Auto Backup\obj\Debug\Auto_Backup.Properties.Resources.resources
+C:\Users\ney\Documents\Visual Studio 2013\Projects\Auto Backup\Auto Backup\obj\Debug\Auto Backup.csproj.GenerateResource.Cache
+C:\Users\ney\Documents\Visual Studio 2013\Projects\Auto Backup\Auto Backup\obj\Debug\Auto Backup.exe
+C:\Users\ney\Documents\Visual Studio 2013\Projects\Auto Backup\Auto Backup\obj\Debug\Auto Backup.pdb
+C:\Users\ney\Documents\Visual Studio 2013\Projects\Auto Backup\Auto Backup\obj\Debug\Auto Backup.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\bin\Debug\Megapolis.exe.config
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\bin\Debug\Megapolis.exe
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\bin\Debug\Megapolis.pdb
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\bin\Debug\Motivation.dll
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\bin\Debug\Motivation.pdb
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\bin\Debug\Motivation.xml
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\obj\Debug\Megapolis.Properties.Resources.resources
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\obj\Debug\Megapolis.csproj.GenerateResource.Cache
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\obj\Debug\Megapolis.exe
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\obj\Debug\Megapolis.pdb
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\obj\Debug\Megapolis.csprojResolveAssemblyReference.cache

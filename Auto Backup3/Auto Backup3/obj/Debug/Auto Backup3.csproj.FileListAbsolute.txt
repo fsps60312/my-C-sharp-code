@@ -1,0 +1,7 @@
+c:\users\ney\documents\visual studio 2013\Projects\Auto Backup3\Auto Backup3\bin\Debug\Auto Backup3.exe.config
+c:\users\ney\documents\visual studio 2013\Projects\Auto Backup3\Auto Backup3\bin\Debug\Auto Backup3.exe
+c:\users\ney\documents\visual studio 2013\Projects\Auto Backup3\Auto Backup3\bin\Debug\Auto Backup3.pdb
+c:\users\ney\documents\visual studio 2013\Projects\Auto Backup3\Auto Backup3\obj\Debug\Auto_Backup3.Properties.Resources.resources
+c:\users\ney\documents\visual studio 2013\Projects\Auto Backup3\Auto Backup3\obj\Debug\Auto Backup3.csproj.GenerateResource.Cache
+c:\users\ney\documents\visual studio 2013\Projects\Auto Backup3\Auto Backup3\obj\Debug\Auto Backup3.exe
+c:\users\ney\documents\visual studio 2013\Projects\Auto Backup3\Auto Backup3\obj\Debug\Auto Backup3.pdb

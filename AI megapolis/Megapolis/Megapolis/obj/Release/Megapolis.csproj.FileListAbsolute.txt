@@ -1,0 +1,11 @@
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\bin\Release\Megapolis.exe.config
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\bin\Release\Megapolis.exe
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\bin\Release\Megapolis.pdb
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\bin\Release\Motivation.dll
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\bin\Release\Motivation.pdb
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\bin\Release\Motivation.xml
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\obj\Release\Megapolis.Properties.Resources.resources
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\obj\Release\Megapolis.csproj.GenerateResource.Cache
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\obj\Release\Megapolis.exe
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\obj\Release\Megapolis.pdb
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Megapolis\Megapolis\obj\Release\Megapolis.csprojResolveAssemblyReference.cache

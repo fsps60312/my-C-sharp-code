@@ -1,0 +1,8 @@
+c:\users\ney\documents\visual studio 2013\Projects\4乘4數獨\4乘4數獨\bin\Debug\4乘4數獨.exe.config
+c:\users\ney\documents\visual studio 2013\Projects\4乘4數獨\4乘4數獨\bin\Debug\4乘4數獨.exe
+c:\users\ney\documents\visual studio 2013\Projects\4乘4數獨\4乘4數獨\bin\Debug\4乘4數獨.pdb
+c:\users\ney\documents\visual studio 2013\Projects\4乘4數獨\4乘4數獨\obj\Debug\_4乘4數獨.Properties.Resources.resources
+c:\users\ney\documents\visual studio 2013\Projects\4乘4數獨\4乘4數獨\obj\Debug\4乘4數獨.csproj.GenerateResource.Cache
+c:\users\ney\documents\visual studio 2013\Projects\4乘4數獨\4乘4數獨\obj\Debug\4乘4數獨.exe
+c:\users\ney\documents\visual studio 2013\Projects\4乘4數獨\4乘4數獨\obj\Debug\4乘4數獨.pdb
+c:\users\ney\documents\visual studio 2013\Projects\4乘4數獨\4乘4數獨\obj\Debug\4乘4數獨.csprojResolveAssemblyReference.cache

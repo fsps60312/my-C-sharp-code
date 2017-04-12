@@ -1,0 +1,7 @@
+C:\Users\ney\Documents\Visual Studio 2013\Projects\Auto Backup2\Auto Backup2\bin\Debug\Auto Backup2.exe.config
+C:\Users\ney\Documents\Visual Studio 2013\Projects\Auto Backup2\Auto Backup2\bin\Debug\Auto Backup2.exe
+C:\Users\ney\Documents\Visual Studio 2013\Projects\Auto Backup2\Auto Backup2\bin\Debug\Auto Backup2.pdb
+C:\Users\ney\Documents\Visual Studio 2013\Projects\Auto Backup2\Auto Backup2\obj\Debug\Auto_Backup2.Properties.Resources.resources
+C:\Users\ney\Documents\Visual Studio 2013\Projects\Auto Backup2\Auto Backup2\obj\Debug\Auto Backup2.csproj.GenerateResource.Cache
+C:\Users\ney\Documents\Visual Studio 2013\Projects\Auto Backup2\Auto Backup2\obj\Debug\Auto Backup2.exe
+C:\Users\ney\Documents\Visual Studio 2013\Projects\Auto Backup2\Auto Backup2\obj\Debug\Auto Backup2.pdb

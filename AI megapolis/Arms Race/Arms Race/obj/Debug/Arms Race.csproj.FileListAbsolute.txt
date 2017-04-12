@@ -1,0 +1,11 @@
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Arms Race\Arms Race\bin\Debug\Arms Race.exe.config
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Arms Race\Arms Race\bin\Debug\Arms Race.exe
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Arms Race\Arms Race\bin\Debug\Arms Race.pdb
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Arms Race\Arms Race\bin\Debug\Motivation.dll
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Arms Race\Arms Race\bin\Debug\Motivation.pdb
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Arms Race\Arms Race\bin\Debug\Motivation.xml
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Arms Race\Arms Race\obj\Debug\Arms Race.csprojResolveAssemblyReference.cache
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Arms Race\Arms Race\obj\Debug\Arms_Race.Properties.Resources.resources
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Arms Race\Arms Race\obj\Debug\Arms Race.csproj.GenerateResource.Cache
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Arms Race\Arms Race\obj\Debug\Arms Race.exe
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\Arms Race\Arms Race\obj\Debug\Arms Race.pdb

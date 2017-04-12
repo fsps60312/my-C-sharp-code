@@ -1,0 +1,10 @@
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClientSimulate\MegapolisClientSimulate\bin\Debug\MegapolisClientSimulate.exe.config
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClientSimulate\MegapolisClientSimulate\bin\Debug\MegapolisClientSimulate.exe
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClientSimulate\MegapolisClientSimulate\bin\Debug\MegapolisClientSimulate.pdb
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClientSimulate\MegapolisClientSimulate\bin\Debug\Motivation.dll
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClientSimulate\MegapolisClientSimulate\bin\Debug\Motivation.pdb
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClientSimulate\MegapolisClientSimulate\bin\Debug\Motivation.xml
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClientSimulate\MegapolisClientSimulate\obj\Debug\MegapolisClientSimulate.Properties.Resources.resources
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClientSimulate\MegapolisClientSimulate\obj\Debug\MegapolisClientSimulate.csproj.GenerateResource.Cache
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClientSimulate\MegapolisClientSimulate\obj\Debug\MegapolisClientSimulate.exe
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClientSimulate\MegapolisClientSimulate\obj\Debug\MegapolisClientSimulate.pdb

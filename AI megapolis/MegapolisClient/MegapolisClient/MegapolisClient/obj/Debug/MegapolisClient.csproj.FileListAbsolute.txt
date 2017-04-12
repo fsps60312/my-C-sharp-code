@@ -1,0 +1,13 @@
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClient\MegapolisClient\MegapolisClient\bin\Debug\MegapolisClient.dll
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClient\MegapolisClient\MegapolisClient\bin\Debug\MegapolisClient.pdb
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClient\MegapolisClient\MegapolisClient\bin\Debug\Xamarin.Forms.Core.dll
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClient\MegapolisClient\MegapolisClient\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClient\MegapolisClient\MegapolisClient\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClient\MegapolisClient\MegapolisClient\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClient\MegapolisClient\MegapolisClient\bin\Debug\Xamarin.Forms.Core.xml
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClient\MegapolisClient\MegapolisClient\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClient\MegapolisClient\MegapolisClient\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClient\MegapolisClient\MegapolisClient\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClient\MegapolisClient\MegapolisClient\obj\Debug\MegapolisClient.csprojResolveAssemblyReference.cache
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClient\MegapolisClient\MegapolisClient\obj\Debug\MegapolisClient.dll
+D:\Users\fsps6\OneDrive\Sync\C# Code\AI megapolis\MegapolisClient\MegapolisClient\MegapolisClient\obj\Debug\MegapolisClient.pdb

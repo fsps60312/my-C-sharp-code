@@ -1,0 +1,11 @@
+C:\Users\Motivation\Desktop\C# Code\AI play Megapolis in BlueStacks\AI play Megapolis in BlueStacks\bin\Debug\AI play Megapolis in BlueStacks.exe.config
+C:\Users\Motivation\Desktop\C# Code\AI play Megapolis in BlueStacks\AI play Megapolis in BlueStacks\bin\Debug\AI play Megapolis in BlueStacks.exe
+C:\Users\Motivation\Desktop\C# Code\AI play Megapolis in BlueStacks\AI play Megapolis in BlueStacks\bin\Debug\AI play Megapolis in BlueStacks.pdb
+C:\Users\Motivation\Desktop\C# Code\AI play Megapolis in BlueStacks\AI play Megapolis in BlueStacks\bin\Debug\Motivation.dll
+C:\Users\Motivation\Desktop\C# Code\AI play Megapolis in BlueStacks\AI play Megapolis in BlueStacks\obj\Debug\AI play Megapolis in BlueStacks.csprojResolveAssemblyReference.cache
+C:\Users\Motivation\Desktop\C# Code\AI play Megapolis in BlueStacks\AI play Megapolis in BlueStacks\obj\Debug\AI_play_Megapolis_in_BlueStacks.Properties.Resources.resources
+C:\Users\Motivation\Desktop\C# Code\AI play Megapolis in BlueStacks\AI play Megapolis in BlueStacks\obj\Debug\AI play Megapolis in BlueStacks.csproj.GenerateResource.Cache
+C:\Users\Motivation\Desktop\C# Code\AI play Megapolis in BlueStacks\AI play Megapolis in BlueStacks\obj\Debug\AI play Megapolis in BlueStacks.exe
+C:\Users\Motivation\Desktop\C# Code\AI play Megapolis in BlueStacks\AI play Megapolis in BlueStacks\obj\Debug\AI play Megapolis in BlueStacks.pdb
+C:\Users\Motivation\Desktop\C# Code\AI play Megapolis in BlueStacks\AI play Megapolis in BlueStacks\bin\Debug\Motivation.pdb
+C:\Users\Motivation\Desktop\C# Code\AI play Megapolis in BlueStacks\AI play Megapolis in BlueStacks\bin\Debug\Motivation.xml
