@@ -1,0 +1,20 @@
+C:\Users\Motivation\Google Drive\Visual Studio\Self-checkin app\Client2\Client2\bin\Release\Client2.exe.config
+C:\Users\Motivation\Google Drive\Visual Studio\Self-checkin app\Client2\Client2\bin\Release\Client2.exe
+C:\Users\Motivation\Google Drive\Visual Studio\Self-checkin app\Client2\Client2\bin\Release\Client2.pdb
+C:\Users\Motivation\Google Drive\Visual Studio\Self-checkin app\Client2\Client2\bin\Release\Motivation.dll
+C:\Users\Motivation\Google Drive\Visual Studio\Self-checkin app\Client2\Client2\bin\Release\Motivation.pdb
+C:\Users\Motivation\Google Drive\Visual Studio\Self-checkin app\Client2\Client2\bin\Release\Motivation.xml
+C:\Users\Motivation\Google Drive\Visual Studio\Self-checkin app\Client2\Client2\obj\Release\Client2.Properties.Resources.resources
+C:\Users\Motivation\Google Drive\Visual Studio\Self-checkin app\Client2\Client2\obj\Release\Client2.csproj.GenerateResource.Cache
+C:\Users\Motivation\Google Drive\Visual Studio\Self-checkin app\Client2\Client2\obj\Release\Client2.exe
+C:\Users\Motivation\Google Drive\Visual Studio\Self-checkin app\Client2\Client2\obj\Release\Client2.pdb
+C:\Users\Motivation\Desktop\C# Code\Client2\Client2\bin\Release\Client2.exe.config
+C:\Users\Motivation\Desktop\C# Code\Client2\Client2\obj\Release\Client2.exe
+C:\Users\Motivation\Desktop\C# Code\Client2\Client2\obj\Release\Client2.pdb
+C:\Users\Motivation\Desktop\C# Code\Client2\Client2\bin\Release\Client2.exe
+C:\Users\Motivation\Desktop\C# Code\Client2\Client2\bin\Release\Client2.pdb
+C:\Users\Motivation\Desktop\C# Code\Client2\Client2\bin\Release\Motivation.dll
+C:\Users\Motivation\Desktop\C# Code\Client2\Client2\bin\Release\Motivation.pdb
+C:\Users\Motivation\Desktop\C# Code\Client2\Client2\bin\Release\Motivation.xml
+C:\Users\Motivation\Desktop\C# Code\Client2\Client2\obj\Release\Client2.Properties.Resources.resources
+C:\Users\Motivation\Desktop\C# Code\Client2\Client2\obj\Release\Client2.csproj.GenerateResource.Cache

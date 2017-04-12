@@ -1,0 +1,9 @@
+C:\Users\Motivation\Desktop\Skysource\Visual Studio\Self-checkin app\Server1\Server1\bin\Debug\Server1.exe.config
+C:\Users\Motivation\Desktop\Skysource\Visual Studio\Self-checkin app\Server1\Server1\bin\Debug\Server1.exe
+C:\Users\Motivation\Desktop\Skysource\Visual Studio\Self-checkin app\Server1\Server1\bin\Debug\Server1.pdb
+C:\Users\Motivation\Desktop\Skysource\Visual Studio\Self-checkin app\Server1\Server1\bin\Debug\Motivation.dll
+C:\Users\Motivation\Desktop\Skysource\Visual Studio\Self-checkin app\Server1\Server1\obj\Debug\Server1.csprojResolveAssemblyReference.cache
+C:\Users\Motivation\Desktop\Skysource\Visual Studio\Self-checkin app\Server1\Server1\obj\Debug\Server1.Properties.Resources.resources
+C:\Users\Motivation\Desktop\Skysource\Visual Studio\Self-checkin app\Server1\Server1\obj\Debug\Server1.csproj.GenerateResource.Cache
+C:\Users\Motivation\Desktop\Skysource\Visual Studio\Self-checkin app\Server1\Server1\obj\Debug\Server1.exe
+C:\Users\Motivation\Desktop\Skysource\Visual Studio\Self-checkin app\Server1\Server1\obj\Debug\Server1.pdb

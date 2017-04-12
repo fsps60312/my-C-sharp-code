@@ -1,0 +1,2 @@
+C:\Users\Burney\OneDrive\Sync\C# Code\JustTry\App1\App1\App1.UWP\App1.UWP.csproj;x86
+C:\Users\Burney\OneDrive\Sync\C# Code\JustTry\App1\App1\App1\App1.csproj;neutral

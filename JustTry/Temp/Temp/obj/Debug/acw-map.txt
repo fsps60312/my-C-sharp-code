@@ -1,0 +1,4 @@
+Temp.MainActivity, Temp;md5b93c66dfa3d653a1d17c65cc4ee6fc1e.MainActivity
+Temp.MainActivity, Temp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b93c66dfa3d653a1d17c65cc4ee6fc1e.MainActivity
+Temp.MainActivity;md5b93c66dfa3d653a1d17c65cc4ee6fc1e.MainActivity
+temp.MainActivity;md5b93c66dfa3d653a1d17c65cc4ee6fc1e.MainActivity

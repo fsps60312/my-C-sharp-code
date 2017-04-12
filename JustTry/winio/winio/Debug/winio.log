@@ -1,0 +1,21 @@
+﻿已經開始建置於 2014/6/13 下午 01:22:05。
+     1>節點 2 (Build 目標) 上的專案 "c:\Users\ney\documents\visual studio 2013\Projects\winio\winio\winio.vcxproj"。
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(362,5): warning MSB8003: Could not find WindowsSDKDir variable from the registry.  TargetFrameworkVersion or PlatformToolset may be set to an invalid version number.
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files\Microsoft SDKs\Windows\v7.1A\Include" /AI"C:\Program Files\Microsoft SDKs\Windows\v7.1A\Lib" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\program files\microsoft sdks\windows\v7.1a\include\sal_supp.h(57): warning C4005: '__useHeader' : 巨集重複定義
+                 c:\program files\microsoft visual studio 12.0\vc\include\sal.h(2886) : 請參閱 '__useHeader' 之前的定義
+     1>c:\program files\microsoft sdks\windows\v7.1a\include\specstrings_supp.h(77): warning C4005: '__on_failure' : 巨集重複定義
+                 c:\program files\microsoft visual studio 12.0\vc\include\sal.h(2896) : 請參閱 '__on_failure' 之前的定義
+     1>c:\users\ney\documents\visual studio 2013\projects\winio\winio\main.cpp(59): warning C4566: 由通用字元名稱 '\u88C5' 表示的字元，無法在目前的字碼頁中表示 (950)
+     1>c:\users\ney\documents\visual studio 2013\projects\winio\winio\main.cpp(62): warning C4566: 由通用字元名稱 '\u88C5' 表示的字元，無法在目前的字碼頁中表示 (950)
+     1>c:\users\ney\documents\visual studio 2013\projects\winio\winio\main.cpp(43): warning C4101: 'br' : 未參考的區域變數
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\ney\documents\visual studio 2013\Projects\winio\Debug\winio.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\ney\documents\visual studio 2013\Projects\winio\Debug\winio.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\ney\documents\visual studio 2013\Projects\winio\Debug\winio.lib" /MACHINE:X86 Debug\Main.obj
+     1>LINK : fatal error LNK1104: 無法開啟檔案 'kernel32.lib'
+     1>專案 "c:\Users\ney\documents\visual studio 2013\Projects\winio\winio\winio.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:04.33
