@@ -1,0 +1,19 @@
+c:\users\burney\documents\visual studio 2013\Projects\C++ Code Reformator\C++ Code Reformator\bin\Debug\C++ Code Reformator.exe.config
+C:\Users\user\Documents\C++ Code Reformator\C++ Code Reformator\bin\Debug\C++ Code Reformator.exe.config
+C:\Users\user\Documents\C++ Code Reformator\C++ Code Reformator\obj\Debug\C++ Code Reformator.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\C++ Code Reformator\C++ Code Reformator\obj\Debug\C___Code_Reformator.Properties.Resources.resources
+C:\Users\user\Documents\C++ Code Reformator\C++ Code Reformator\obj\Debug\C++ Code Reformator.csproj.GenerateResource.Cache
+C:\Users\user\Documents\C++ Code Reformator\C++ Code Reformator\bin\Debug\C++ Code Reformator.exe
+C:\Users\user\Documents\C++ Code Reformator\C++ Code Reformator\bin\Debug\C++ Code Reformator.pdb
+C:\Users\user\Documents\C++ Code Reformator\C++ Code Reformator\obj\Debug\C++ Code Reformator.exe
+C:\Users\user\Documents\C++ Code Reformator\C++ Code Reformator\obj\Debug\C++ Code Reformator.pdb
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\C++ Code Reformator\C++ Code Reformator\obj\Debug\C++ Code Reformator.exe
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\C++ Code Reformator\C++ Code Reformator\obj\Debug\C++ Code Reformator.pdb
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\C++ Code Reformator\C++ Code Reformator\bin\Debug\C++ Code Reformator.exe
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\C++ Code Reformator\C++ Code Reformator\bin\Debug\C++ Code Reformator.pdb
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\C++ Code Reformator\C++ Code Reformator\obj\Debug\C___Code_Reformator.Properties.Resources.resources
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\C++ Code Reformator\C++ Code Reformator\obj\Debug\C++ Code Reformator.csproj.GenerateResource.Cache
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\C++ Code Reformator\C++ Code Reformator\obj\Debug\C++ Code Reformator.csprojResolveAssemblyReference.cache
+C:\Users\Motivation\Desktop\C# Code\C++ Code Reformator\C++ Code Reformator\bin\Debug\C++ Code Reformator.exe.config
+C:\Users\Motivation\Desktop\C# Code\C++ Code Reformator\C++ Code Reformator\obj\Debug\C++ Code Reformator.exe
+C:\Users\Motivation\Desktop\C# Code\C++ Code Reformator\C++ Code Reformator\obj\Debug\C++ Code Reformator.pdb

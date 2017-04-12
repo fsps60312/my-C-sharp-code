@@ -1,0 +1,7 @@
+C:\Users\Motivation\Desktop\C# Code\Digging Game 3-Camera Practice\Digging Game 3-Camera Practice\bin\Debug\Digging Game 3-Camera Practice.exe.config
+C:\Users\Motivation\Desktop\C# Code\Digging Game 3-Camera Practice\Digging Game 3-Camera Practice\bin\Debug\Digging Game 3-Camera Practice.exe
+C:\Users\Motivation\Desktop\C# Code\Digging Game 3-Camera Practice\Digging Game 3-Camera Practice\bin\Debug\Digging Game 3-Camera Practice.pdb
+C:\Users\Motivation\Desktop\C# Code\Digging Game 3-Camera Practice\Digging Game 3-Camera Practice\obj\Debug\Digging_Game_3_Camera_Practice.Properties.Resources.resources
+C:\Users\Motivation\Desktop\C# Code\Digging Game 3-Camera Practice\Digging Game 3-Camera Practice\obj\Debug\Digging Game 3-Camera Practice.csproj.GenerateResource.Cache
+C:\Users\Motivation\Desktop\C# Code\Digging Game 3-Camera Practice\Digging Game 3-Camera Practice\obj\Debug\Digging Game 3-Camera Practice.exe
+C:\Users\Motivation\Desktop\C# Code\Digging Game 3-Camera Practice\Digging Game 3-Camera Practice\obj\Debug\Digging Game 3-Camera Practice.pdb

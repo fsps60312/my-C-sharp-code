@@ -1,0 +1,8 @@
+c:\users\burney\documents\visual studio 2013\Projects\Change Screen Resolution\Change Screen Resolution\bin\Debug\Change Screen Resolution.exe.config
+c:\users\burney\documents\visual studio 2013\Projects\Change Screen Resolution\Change Screen Resolution\bin\Debug\Change Screen Resolution.exe
+c:\users\burney\documents\visual studio 2013\Projects\Change Screen Resolution\Change Screen Resolution\bin\Debug\Change Screen Resolution.pdb
+c:\users\burney\documents\visual studio 2013\Projects\Change Screen Resolution\Change Screen Resolution\obj\Debug\Change Screen Resolution.csprojResolveAssemblyReference.cache
+c:\users\burney\documents\visual studio 2013\Projects\Change Screen Resolution\Change Screen Resolution\obj\Debug\Change_Screen_Resolution.Properties.Resources.resources
+c:\users\burney\documents\visual studio 2013\Projects\Change Screen Resolution\Change Screen Resolution\obj\Debug\Change Screen Resolution.csproj.GenerateResource.Cache
+c:\users\burney\documents\visual studio 2013\Projects\Change Screen Resolution\Change Screen Resolution\obj\Debug\Change Screen Resolution.exe
+c:\users\burney\documents\visual studio 2013\Projects\Change Screen Resolution\Change Screen Resolution\obj\Debug\Change Screen Resolution.pdb

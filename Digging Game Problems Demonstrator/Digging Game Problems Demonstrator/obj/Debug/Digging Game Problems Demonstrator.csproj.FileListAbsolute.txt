@@ -1,0 +1,14 @@
+c:\users\burney\documents\visual studio 2013\Projects\Digging Game Problems Demonstrator\Digging Game Problems Demonstrator\bin\Debug\Digging Game Problems Demonstrator.exe.config
+C:\Users\Burney\documents\visual studio 2013\Projects\Digging Game Problems Demonstrator\Digging Game Problems Demonstrator\obj\Debug\Digging Game Problems Demonstrator.csprojResolveAssemblyReference.cache
+C:\Users\Burney\documents\visual studio 2013\Projects\Digging Game Problems Demonstrator\Digging Game Problems Demonstrator\obj\Debug\Digging_Game_Problems_Demonstrator.Properties.Resources.resources
+C:\Users\Burney\documents\visual studio 2013\Projects\Digging Game Problems Demonstrator\Digging Game Problems Demonstrator\obj\Debug\Digging Game Problems Demonstrator.csproj.GenerateResource.Cache
+C:\Users\Burney\documents\visual studio 2013\Projects\Digging Game Problems Demonstrator\Digging Game Problems Demonstrator\bin\Debug\Digging Game Problems Demonstrator.exe
+C:\Users\Burney\documents\visual studio 2013\Projects\Digging Game Problems Demonstrator\Digging Game Problems Demonstrator\bin\Debug\Digging Game Problems Demonstrator.pdb
+C:\Users\Burney\documents\visual studio 2013\Projects\Digging Game Problems Demonstrator\Digging Game Problems Demonstrator\obj\Debug\Digging Game Problems Demonstrator.exe
+C:\Users\Burney\documents\visual studio 2013\Projects\Digging Game Problems Demonstrator\Digging Game Problems Demonstrator\obj\Debug\Digging Game Problems Demonstrator.pdb
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\Digging Game Problems Demonstrator\Digging Game Problems Demonstrator\bin\Debug\Interop.WMPLib.dll
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\Digging Game Problems Demonstrator\Digging Game Problems Demonstrator\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\Digging Game Problems Demonstrator\Digging Game Problems Demonstrator\obj\Debug\Interop.WMPLib.dll
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\Digging Game Problems Demonstrator\Digging Game Problems Demonstrator\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\Digging Game Problems Demonstrator\Digging Game Problems Demonstrator\obj\Debug\Digging Game Problems Demonstrator.csproj.ResolveComReference.cache
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\Digging Game Problems Demonstrator\Digging Game Problems Demonstrator\obj\Debug\Digging_Game_Problems_Demonstrator.Self_Make_Image_Processing_Performance.resources

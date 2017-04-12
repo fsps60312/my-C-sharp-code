@@ -1,0 +1,14 @@
+c:\users\ney\documents\visual studio 2013\Projects\Download UVa Problems\Download UVa Problems\bin\Debug\Download UVa Problems.exe.config
+c:\users\ney\documents\visual studio 2013\Projects\Download UVa Problems\Download UVa Problems\bin\Debug\Download UVa Problems.exe
+c:\users\ney\documents\visual studio 2013\Projects\Download UVa Problems\Download UVa Problems\bin\Debug\Download UVa Problems.pdb
+c:\users\ney\documents\visual studio 2013\Projects\Download UVa Problems\Download UVa Problems\obj\Debug\Download_UVa_Problems.Properties.Resources.resources
+c:\users\ney\documents\visual studio 2013\Projects\Download UVa Problems\Download UVa Problems\obj\Debug\Download UVa Problems.csproj.GenerateResource.Cache
+c:\users\ney\documents\visual studio 2013\Projects\Download UVa Problems\Download UVa Problems\obj\Debug\Download UVa Problems.exe
+c:\users\ney\documents\visual studio 2013\Projects\Download UVa Problems\Download UVa Problems\obj\Debug\Download UVa Problems.pdb
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\Download UVa Problems\Download UVa Problems\bin\Debug\Download UVa Problems.exe.config
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\Download UVa Problems\Download UVa Problems\obj\Debug\Download UVa Problems.exe
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\Download UVa Problems\Download UVa Problems\obj\Debug\Download UVa Problems.pdb
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\Download UVa Problems\Download UVa Problems\bin\Debug\Download UVa Problems.exe
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\Download UVa Problems\Download UVa Problems\bin\Debug\Download UVa Problems.pdb
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\Download UVa Problems\Download UVa Problems\obj\Debug\Download_UVa_Problems.Properties.Resources.resources
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\Download UVa Problems\Download UVa Problems\obj\Debug\Download UVa Problems.csproj.GenerateResource.Cache

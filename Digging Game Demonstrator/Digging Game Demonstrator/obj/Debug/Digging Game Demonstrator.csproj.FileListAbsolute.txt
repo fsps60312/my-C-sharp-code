@@ -1,0 +1,8 @@
+c:\users\burney\documents\visual studio 2013\Projects\Digging Game Demonstrator\Digging Game Demonstrator\bin\Debug\Digging Game Demonstrator.exe.config
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\Digging Game Demonstrator\Digging Game Demonstrator\obj\Debug\Digging Game Demonstrator.csprojResolveAssemblyReference.cache
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\Digging Game Demonstrator\Digging Game Demonstrator\obj\Debug\Digging_Game_Demonstrator.Properties.Resources.resources
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\Digging Game Demonstrator\Digging Game Demonstrator\obj\Debug\Digging Game Demonstrator.csproj.GenerateResource.Cache
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\Digging Game Demonstrator\Digging Game Demonstrator\bin\Debug\Digging Game Demonstrator.exe
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\Digging Game Demonstrator\Digging Game Demonstrator\bin\Debug\Digging Game Demonstrator.pdb
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\Digging Game Demonstrator\Digging Game Demonstrator\obj\Debug\Digging Game Demonstrator.exe
+C:\Users\Burney\Documents\Visual Studio 2013\Projects\Digging Game Demonstrator\Digging Game Demonstrator\obj\Debug\Digging Game Demonstrator.pdb

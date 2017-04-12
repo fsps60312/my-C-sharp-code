@@ -1,0 +1,8 @@
+C:\Users\Motivation\Desktop\C# Code\Digging Game 3\Digging Game 3\bin\Debug\Digging Game 3.exe.config
+C:\Users\Motivation\Desktop\C# Code\Digging Game 3\Digging Game 3\bin\Debug\Digging Game 3.exe
+C:\Users\Motivation\Desktop\C# Code\Digging Game 3\Digging Game 3\bin\Debug\Digging Game 3.pdb
+C:\Users\Motivation\Desktop\C# Code\Digging Game 3\Digging Game 3\obj\Debug\Digging Game 3.csprojResolveAssemblyReference.cache
+C:\Users\Motivation\Desktop\C# Code\Digging Game 3\Digging Game 3\obj\Debug\Digging_Game_3.Properties.Resources.resources
+C:\Users\Motivation\Desktop\C# Code\Digging Game 3\Digging Game 3\obj\Debug\Digging Game 3.csproj.GenerateResource.Cache
+C:\Users\Motivation\Desktop\C# Code\Digging Game 3\Digging Game 3\obj\Debug\Digging Game 3.exe
+C:\Users\Motivation\Desktop\C# Code\Digging Game 3\Digging Game 3\obj\Debug\Digging Game 3.pdb

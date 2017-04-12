@@ -1,0 +1,7 @@
+c:\users\burney\documents\visual studio 2013\Projects\Clipboard Image Transparenter\Clipboard Image Transparenter\bin\Debug\Clipboard Image Transparenter.exe.config
+c:\users\burney\documents\visual studio 2013\Projects\Clipboard Image Transparenter\Clipboard Image Transparenter\bin\Debug\Clipboard Image Transparenter.exe
+c:\users\burney\documents\visual studio 2013\Projects\Clipboard Image Transparenter\Clipboard Image Transparenter\bin\Debug\Clipboard Image Transparenter.pdb
+c:\users\burney\documents\visual studio 2013\Projects\Clipboard Image Transparenter\Clipboard Image Transparenter\obj\Debug\Clipboard_Image_Transparenter.Properties.Resources.resources
+c:\users\burney\documents\visual studio 2013\Projects\Clipboard Image Transparenter\Clipboard Image Transparenter\obj\Debug\Clipboard Image Transparenter.csproj.GenerateResource.Cache
+c:\users\burney\documents\visual studio 2013\Projects\Clipboard Image Transparenter\Clipboard Image Transparenter\obj\Debug\Clipboard Image Transparenter.exe
+c:\users\burney\documents\visual studio 2013\Projects\Clipboard Image Transparenter\Clipboard Image Transparenter\obj\Debug\Clipboard Image Transparenter.pdb

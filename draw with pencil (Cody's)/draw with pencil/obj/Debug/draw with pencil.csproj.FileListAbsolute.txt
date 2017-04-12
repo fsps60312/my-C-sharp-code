@@ -1,0 +1,32 @@
+D:\Cody\專題\C#\draw with pencil\draw with pencil\bin\Debug\draw with pencil.exe.config
+D:\Cody\專題\C#\draw with pencil\draw with pencil\bin\Debug\draw with pencil.exe
+D:\Cody\專題\C#\draw with pencil\draw with pencil\bin\Debug\draw with pencil.pdb
+D:\Cody\專題\C#\draw with pencil\draw with pencil\obj\Debug\draw with pencil.csprojResolveAssemblyReference.cache
+D:\Cody\專題\C#\draw with pencil\draw with pencil\obj\Debug\draw_with_pencil.Properties.Resources.resources
+D:\Cody\專題\C#\draw with pencil\draw with pencil\obj\Debug\draw with pencil.csproj.GenerateResource.Cache
+D:\Cody\專題\C#\draw with pencil\draw with pencil\obj\Debug\draw with pencil.exe
+D:\Cody\專題\C#\draw with pencil\draw with pencil\obj\Debug\draw with pencil.pdb
+C:\Users\Motivation\Documents\draw with pencil\draw with pencil\bin\Debug\draw with pencil.exe.config
+C:\Users\Motivation\Documents\draw with pencil\draw with pencil\obj\Debug\draw with pencil.exe
+C:\Users\Motivation\Documents\draw with pencil\draw with pencil\obj\Debug\draw with pencil.pdb
+C:\Users\Motivation\Documents\draw with pencil\draw with pencil\bin\Debug\draw with pencil.exe
+C:\Users\Motivation\Documents\draw with pencil\draw with pencil\bin\Debug\draw with pencil.pdb
+C:\Users\Motivation\Documents\draw with pencil\draw with pencil\obj\Debug\draw with pencil.csprojResolveAssemblyReference.cache
+C:\Users\Motivation\Documents\draw with pencil\draw with pencil\obj\Debug\draw_with_pencil.Properties.Resources.resources
+C:\Users\Motivation\Documents\draw with pencil\draw with pencil\obj\Debug\draw with pencil.csproj.GenerateResource.Cache
+C:\Users\Motivation\Desktop\C# Code\draw with pencil (Cody's)\draw with pencil\bin\Debug\draw with pencil.exe.config
+C:\Users\Motivation\Desktop\C# Code\draw with pencil (Cody's)\draw with pencil\obj\Debug\draw with pencil.exe
+C:\Users\Motivation\Desktop\C# Code\draw with pencil (Cody's)\draw with pencil\obj\Debug\draw with pencil.pdb
+C:\Users\Motivation\Desktop\C# Code\draw with pencil (Cody's)\draw with pencil\bin\Debug\draw with pencil.exe
+C:\Users\Motivation\Desktop\C# Code\draw with pencil (Cody's)\draw with pencil\bin\Debug\draw with pencil.pdb
+C:\Users\Motivation\Desktop\C# Code\draw with pencil (Cody's)\draw with pencil\obj\Debug\draw with pencil.csprojResolveAssemblyReference.cache
+C:\Users\Motivation\Desktop\C# Code\draw with pencil (Cody's)\draw with pencil\obj\Debug\draw_with_pencil.Properties.Resources.resources
+C:\Users\Motivation\Desktop\C# Code\draw with pencil (Cody's)\draw with pencil\obj\Debug\draw with pencil.csproj.GenerateResource.Cache
+C:\Users\ney\Desktop\C# Code\draw with pencil (Cody's)\draw with pencil\bin\Debug\draw with pencil.exe.config
+C:\Users\ney\Desktop\C# Code\draw with pencil (Cody's)\draw with pencil\obj\Debug\draw with pencil.exe
+C:\Users\ney\Desktop\C# Code\draw with pencil (Cody's)\draw with pencil\obj\Debug\draw with pencil.pdb
+C:\Users\ney\Desktop\C# Code\draw with pencil (Cody's)\draw with pencil\bin\Debug\draw with pencil.exe
+C:\Users\ney\Desktop\C# Code\draw with pencil (Cody's)\draw with pencil\bin\Debug\draw with pencil.pdb
+C:\Users\ney\Desktop\C# Code\draw with pencil (Cody's)\draw with pencil\obj\Debug\draw with pencil.csprojResolveAssemblyReference.cache
+C:\Users\ney\Desktop\C# Code\draw with pencil (Cody's)\draw with pencil\obj\Debug\draw_with_pencil.Properties.Resources.resources
+C:\Users\ney\Desktop\C# Code\draw with pencil (Cody's)\draw with pencil\obj\Debug\draw with pencil.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+G:\VersionControled\Workspace\Projects\TechnicalResearch\CLR\DynamicAccess\DynamicAccess.Test\bin\Debug\DynamicAccess.Test.dll
+G:\VersionControled\Workspace\Projects\TechnicalResearch\CLR\DynamicAccess\DynamicAccess.Test\bin\Debug\DynamicAccess.Test.pdb
+G:\VersionControled\Workspace\Projects\TechnicalResearch\CLR\DynamicAccess\DynamicAccess.Test\bin\Debug\DynamicAccess.dll
+G:\VersionControled\Workspace\Projects\TechnicalResearch\CLR\DynamicAccess\DynamicAccess.Test\bin\Debug\DynamicAccess.pdb
+G:\VersionControled\Workspace\Projects\TechnicalResearch\CLR\DynamicAccess\DynamicAccess.Test\obj\Debug\ResolveAssemblyReference.cache
+G:\VersionControled\Workspace\Projects\TechnicalResearch\CLR\DynamicAccess\DynamicAccess.Test\obj\Debug\DynamicAccess.Test.dll
+G:\VersionControled\Workspace\Projects\TechnicalResearch\CLR\DynamicAccess\DynamicAccess.Test\obj\Debug\DynamicAccess.Test.pdb

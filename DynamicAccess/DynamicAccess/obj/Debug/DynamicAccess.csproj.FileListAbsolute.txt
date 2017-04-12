@@ -1,0 +1,5 @@
+G:\VersionControled\Workspace\Projects\TechnicalResearch\CLR\DynamicAccess\DynamicAccess\bin\Debug\DynamicAccess.dll
+G:\VersionControled\Workspace\Projects\TechnicalResearch\CLR\DynamicAccess\DynamicAccess\bin\Debug\DynamicAccess.pdb
+G:\VersionControled\Workspace\Projects\TechnicalResearch\CLR\DynamicAccess\DynamicAccess\obj\Debug\ResolveAssemblyReference.cache
+G:\VersionControled\Workspace\Projects\TechnicalResearch\CLR\DynamicAccess\DynamicAccess\obj\Debug\DynamicAccess.dll
+G:\VersionControled\Workspace\Projects\TechnicalResearch\CLR\DynamicAccess\DynamicAccess\obj\Debug\DynamicAccess.pdb
